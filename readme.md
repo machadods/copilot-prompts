@@ -6,130 +6,122 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>SPA Empresarial Responsiva</h1>
+    <h1>SPA Empresarial com Python e Streamlit</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL">
-    <img src="https://img.shields.io/static/v1?label=Nivel&message=Expert&color=E94D5F&labelColor=202024" alt="Nivel">
-  </a>
+  <img src="https://img.shields.io/static/v1?label=Nivel&message=Expert&color=E94D5F&labelColor=202024" alt="Nivel Expert" />
 </p>
 
 <table align="center">
 <thead>
   <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
+    <td align="center">
+        <p align="center"><strong>Autor</strong></p>
+        <a href="https://github.com/machadods">
+          <img 
+            src="https://avatars.githubusercontent.com/u/00000000?v=4" 
+            alt="Wagner Machado dos Santos" 
+            width="115"
+          />
+          <br/>
+          <strong>Wagner Machado dos Santos</strong>
+        </a>
     </td>
     <td colspan="3">
-    <p>
-      🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS
-      <br/>
-      🌟 Desenvolvedor Fullstack — Coordenador de Educação na DIO
-      <br/>
-      👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a href="https://www.linkedin.com/in/felipe-me/" align="center">
+      <p>
+        🧠 Cientista de Dados | Fullstack Python (SQL, Streamlit, FastAPI)<br/>
+        🤖 AI Engineer – Vibecoder (LLM Orchestration)<br/>
+        🚀 Entusiasta de IA aplicada, automação e desenvolvimento de soluções independentes de Big Techs
+      </p>
+      <a href="http://linkedin.com/in/wmachadods" target="_blank">
         <img 
           align="center" 
           alt="LinkedIn" 
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        >
+        />
       </a>
-      <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+      <a href="https://www.instagram.com/_wagnerms/" target="_blank">
         <img 
           align="center" 
           alt="Instagram" 
           src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        >
+        />
+      </a>
+      <a href="https://github.com/machadods" target="_blank">
+        <img 
+          align="center" 
+          alt="GitHub" 
+          src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+        />
       </a>
     </td>
   </tr>
 </thead>
 </table>
 
----
+<br/>
 
 ## 💻 Sobre o Projeto
 
-Este projeto consiste na construção de uma **Single Page Application (SPA) empresarial**, responsiva e reutilizável, voltada para **micro, pequenas e médias empresas**.
+Este projeto consiste no desenvolvimento de uma **Single Page Application (SPA) empresarial**, responsiva e modular, construída com **Python e Streamlit**, voltada para micro, pequenas e médias empresas.
 
-A aplicação apresenta uma estrutura moderna, com navegação fluida sem recarregamento de página, simulando um site institucional profissional.
+A aplicação pode ser reutilizada como **template profissional**, contendo as seguintes seções:
 
-### Seções implementadas:
-- **Header** (com navegação integrada)
-- **Home**
-- **Sobre**
-- **Serviços**
-- **Depoimentos**
-- **Contato**
-- **Footer**, responsável por:
-  - Exibir créditos do projeto
-  - Exibir o ano atual automaticamente
-  - Centralizar links institucionais
+- Header (navegação centralizada)
+- Home
+- Sobre
+- Serviços
+- Depoimentos
+- Contato
+- Footer
+
+O foco é **simplicidade, reutilização e clareza**, simulando um site institucional moderno utilizando tecnologia Python.
 
 ---
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste projeto, é recomendado possuir conhecimentos básicos nas seguintes áreas:
+Antes de ingressar neste projeto, é recomendado possuir conhecimentos básicos em:
 
-- Python | Básico  
-- Streamlit | Básico  
-- HTML e CSS | Básico  
-- Lógica de Programação | Básico  
-- Git e GitHub | Básico  
+- Python | Básico
+- Lógica de programação | Básico
+- Gerenciamento de pacotes (pip / venv) | Básico
+- Conceitos de front-end e SPA | Básico
 
 ---
 
 ## 🛠️ Habilidades e Sub-habilidades Desenvolvidas
 
-Durante o desenvolvimento deste projeto, foram trabalhadas as seguintes habilidades:
-
-- Desenvolvimento Front-end
-  - Conceitos de SPA (Single Page Application)
-  - Componentização de interface
-  - Gerenciamento de navegação por estado
-- UI/UX básico
-  - Layout responsivo
-  - Organização visual de conteúdo
+- Desenvolvimento de SPA
+  - Arquitetura modular de páginas
+  - Reutilização de componentes (Header e Footer)
+- Python aplicado ao Front-end
+  - Streamlit
+  - Estruturação de aplicações
 - Organização de projetos
-  - Estrutura modular de arquivos
   - Separação de responsabilidades
-- Versionamento de código
-  - Git
-  - GitHub
+  - Boas práticas de legibilidade e manutenção
 
 ---
 
 ## 🎯 Objetivos e Resultados Esperados
 
-Após a conclusão do projeto, o estudante será capaz de:
+Ao concluir este projeto, o estudante será capaz de:
 
-- Desenvolver uma aplicação SPA funcional
-- Criar interfaces institucionais reutilizáveis para empresas
-- Estruturar projetos front-end de forma organizada
-- Aplicar conceitos modernos de navegação sem reload
-- Utilizar o Streamlit como alternativa para prototipação de SPAs
-
-Este projeto pode servir como:
-- Base para sites institucionais
-- Portfólio profissional
-- Ponto de partida para produtos digitais maiores
+- Criar uma SPA funcional utilizando Python
+- Estruturar aplicações Streamlit de forma profissional
+- Reutilizar componentes entre páginas
+- Adaptar o template para diferentes tipos de empresas
+- Publicar e apresentar projetos no GitHub com documentação adequada
 
 ---
 
 <!--START_SECTION:footer-->
-
-<br />
-<br />
-
+<br/>
 <p align="center">
   <a href="https://www.dio.me/" target="_blank">
     <img 
@@ -139,3 +131,4 @@ Este projeto pode servir como:
     />
   </a>
 </p>
+<!--END_SECTION:footer-->
