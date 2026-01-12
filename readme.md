@@ -1,134 +1,220 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>SPA Empresarial com Python e Streamlit</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+Desafio DIO – IA Mentor de Carreira: Descubra Seu Futuro em Tech
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <img src="https://img.shields.io/static/v1?label=Nivel&message=Iniciante&color=E94D5F&labelColor=202024" alt="Nivel Iniciante" />
-</p>
+Curso: CAIXA - Inteligência Artificial na Prática (DIO)
+Objetivo do Desafio: Executar os Agentes 1 e 2 para orientar usuários em carreiras de tecnologia, coletando perfil, analisando e sugerindo caminhos profissionais.
 
-<table align="center">
-<thead>
-  <tr>
-    <td align="center">
-        <p align="center"><strong>Autor</strong></p>
-        <a href="https://github.com/machadods">
-          <img 
-            src="https://avatars.githubusercontent.com/u/00000000?v=4" 
-            alt="Wagner Machado dos Santos" 
-            width="115"
-          />
-          <br/>
-          <strong>Wagner Machado dos Santos</strong>
-        </a>
-    </td>
-    <td colspan="3">
-      <p>
-        🧠 Cientista de Dados | Fullstack Python (SQL, Streamlit, FastAPI)<br/>
-        🤖 AI Engineer – Vibecoder (LLM Orchestration)<br/>
-        🚀 Entusiasta de IA aplicada, automação e desenvolvimento de soluções independentes de Big Techs
-      </p>
-      <a href="http://linkedin.com/in/wmachadods" target="_blank">
-        <img 
-          align="center" 
-          alt="LinkedIn" 
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-      </a>
-      <a href="https://www.instagram.com/_wagnerms/" target="_blank">
-        <img 
-          align="center" 
-          alt="Instagram" 
-          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-      </a>
-      <a href="https://github.com/machadods" target="_blank">
-        <img 
-          align="center" 
-          alt="GitHub" 
-          src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-        />
-      </a>
-    </td>
-  </tr>
-</thead>
-</table>
+📝 Entrevista – Agente 1
 
-<br/>
+Descrição: Coleta de informações do usuário sobre interesses, experiência e objetivos profissionais.
 
-## 💻 Sobre o Projeto
+Perguntas e respostas:
 
-Este projeto consiste no desenvolvimento de uma **Single Page Application (SPA) empresarial**, responsiva e modular, construída com **Python e Streamlit**, voltada para micro, pequenas e médias empresas.
+O que mais te atrai em tecnologia?
+Resolver problemas, criar produtos e entender sistemas, alinhado ao presente e futuro.
 
-A aplicação pode ser reutilizada como **template profissional**, contendo as seguintes seções:
+Experiência prévia na área de tecnologia:
+Experiência básica; já uso LLMs (ChatGPT) há meses como ferramenta de estudo e desenvolvimento.
 
-- Header (navegação centralizada)
-- Home
-- Sobre
-- Serviços
-- Depoimentos
-- Contato
-- Footer
+Horas disponíveis por semana para estudo:
+28 horas (cerca de 4 horas por dia).
 
-O foco é **simplicidade, reutilização e clareza**, simulando um site institucional moderno utilizando tecnologia Python.
+Preferência no dia a dia:
+Perfil eclético: pessoas, dados e código.
 
----
+Objetivo profissional:
+Transição de carreira, conseguir o primeiro emprego e criar independência tecnológica (desenvolver própria LLM).
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Tecnologias de interesse:
+Inteligência Artificial, LLMs e automação aplicada ao mundo real.
 
-Antes de ingressar neste projeto, é recomendado possuir conhecimentos básicos em:
+Experiência prévia relevante:
+Mestre de obras e açougueiro – funções que exigem raciocínio prático e que ainda não foram totalmente automatizadas, oferecendo visão única para desenvolvimento de IA aplicada.
 
-- Python | Básico
-- Lógica de programação | Básico
-- Gerenciamento de pacotes (pip / venv) | Básico
-- Conceitos de front-end e SPA | Básico
+📊 Análise e Sugestões – Agente 2
 
----
+Matriz de decisão: Afinidade, demanda de mercado, tempo até júnior e aproveitamento da experiência prévia.
 
-## 🛠️ Habilidades e Sub-habilidades Desenvolvidas
+Carreiras sugeridas:
 
-- Desenvolvimento de SPA
-  - Arquitetura modular de páginas
-  - Reutilização de componentes (Header e Footer)
-- Python aplicado ao Front-end
-  - Streamlit
-  - Estruturação de aplicações
-- Organização de projetos
-  - Separação de responsabilidades
-  - Boas práticas de legibilidade e manutenção
+🥇 1º LUGAR – Engenheiro de Inteligência Artificial / LLM Engineer (18/20)
 
----
+Por que combina com você:
+Experiência prática com LLMs, visão de independência tecnológica e histórico fora da bolha tech, aplicando IA ao mundo real.
 
-## 🎯 Objetivos e Resultados Esperados
+O que esperar:
 
-Ao concluir este projeto, o estudante será capaz de:
+Vantagens: Alinhamento com futuro, possibilidade de empreender, alta sinergia com criação própria de LLM.
 
-- Criar uma SPA funcional utilizando Python
-- Estruturar aplicações Streamlit de forma profissional
-- Reutilizar componentes entre páginas
-- Adaptar o template para diferentes tipos de empresas
-- Publicar e apresentar projetos no GitHub com documentação adequada
+Desafios: Curva técnica intensa, exige base sólida em computação e dados.
 
----
+Mercado: Alta demanda global; varia por região, senioridade e especialização.
 
-<!--START_SECTION:footer-->
-<br/>
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" 
-      alt="DIO Education"
-    />
-  </a>
-</p>
-<!--END_SECTION:footer-->
+🥈 2º LUGAR – Desenvolvedor Full Stack com foco em IA (16/20)
+
+Por que combina com você:
+Permite entrada mais rápida no mercado e desenvolvimento de produtos próprios com IA.
+
+O que esperar:
+
+Vantagens: Ramp-up mais rápido até júnior, facilidade de criar MVPs e startups, integração de IA prática.
+
+Desafios: Concorrência maior, exige disciplina para não ser generalista raso.
+
+Mercado: Muito aquecido, especialmente para integração de IA em produtos reais.
+
+🥉 3º LUGAR – Arquiteto de Soluções em IA Aplicada (15/20)
+
+Por que combina com você:
+Permite transformar problemas do mundo físico em soluções técnicas com IA.
+
+O que esperar:
+
+Vantagens: Alto valor estratégico, ponte entre negócio e tecnologia.
+
+Desafios: Normalmente exige alguma bagagem prévia; entrada inicial indireta.
+
+Mercado: Crescente, especialmente em empresas industriais e startups deep tech.
+
+🔄 Agente 2 – Plano Personalizado de Carreira
+
+Carreira escolhida: Engenheiro de Inteligência Artificial / LLM Engineer
+Horas semanais disponíveis: 28h
+Experiência: Iniciante (uso básico de LLMs)
+Objetivo: Transição de carreira + primeiro emprego + base para empreendedorismo
+Perfil: Pessoas, dados e código (perfil eclético)
+Interesses técnicos: IA, LLMs, independência tecnológica, aplicação prática
+
+🧩 Visão do Dia a Dia
+
+Como é o trabalho de um Engenheiro de IA / LLM Engineer:
+
+Desenvolver e ajustar modelos de IA e LLMs.
+
+Criar pipelines de dados para treinamento e inferência.
+
+Integrar modelos de IA em produtos reais (APIs, apps, sistemas).
+
+Avaliar desempenho, vieses e limitações dos modelos.
+
+Trabalhar com prompts, fine-tuning e agentes de IA.
+
+🧠 Mapa de Skills
+
+Core Skills (essenciais):
+
+Python para IA e automação
+
+Fundamentos de Machine Learning
+
+Engenharia de Prompts e LLMs
+
+Nice-to-Have (complementares):
+
+Matemática aplicada (álgebra linear e estatística básica)
+
+Conceitos de sistemas distribuídos
+
+Ferramentas e Tecnologias:
+
+Python
+
+Hugging Face
+
+LangChain / frameworks de agentes
+
+Git e GitHub
+
+📅 Roadmap de 90 dias (28h/semana)
+
+Mês 1 – Fundamentos
+
+Semana 1–2: Revisar Python focado em IA; conceitos básicos de Machine Learning; entender tokens, embeddings e contexto de LLMs.
+
+Semana 3–4: Engenharia de prompts (zero-shot, few-shot, chain-of-thought); experimentos práticos com APIs e agentes simples.
+
+Mês 2 – Prática
+
+Semana 5–6: Introdução ao Hugging Face; uso de modelos open source; fine-tuning conceitual.
+
+Semana 7–8: Criação de agentes de IA; orquestração de tarefas; boas práticas de avaliação de respostas.
+
+Mês 3 – Portfólio e Preparação
+
+Semana 9–10: Início do projeto de portfólio; documentação das decisões técnicas.
+
+Semana 11–12: Finalização, ajustes, testes e publicação no GitHub; preparação para entrevistas técnicas.
+
+🚀 Projeto de Portfólio
+
+Projeto: Agente de IA para Orientação Profissional
+
+O que fazer: Criar um sistema com múltiplos agentes que entrevistam usuários, analisam perfil e geram planos personalizados de carreira.
+
+Entregáveis:
+
+Prompt estruturado dos agentes
+
+Fluxo de interação documentado
+
+README explicando decisões e aprendizados
+
+Critérios de aceitação:
+
+Papéis bem definidos para cada agente
+
+Fluxo claro de entrada, decisão e saída
+
+Documentação compreensível para terceiros
+
+Dica: Foque na arquitetura do prompt e no raciocínio por trás das decisões, mais do que no código.
+
+📂 Sobre o projeto iAVocacional
+
+O iAVocacional é um projeto desenvolvido por Lorde para orientação profissional com IA. Ele combina entrevistas estruturadas, análise de perfil e recomendações de carreira personalizadas. Funciona como um agente de IA modular, permitindo criar planos de estudo, mapas de skills e sugestões de carreiras com base no perfil do usuário.
+
+Características principais do iAVocacional:
+
+Módulos de entrevistas e avaliação de perfil
+
+Sistema de recomendações de carreiras em tecnologia
+
+Estrutura modular, permitindo expansão para múltiplos agentes de IA
+
+Integração com dashboards e relatórios de progresso
+
+Repositório no GitHub: iavocacional
+
+💬 Roteiro de Entrevistas (Júnior)
+
+O que é um LLM?
+Resposta: Explique probabilidade, contexto e uso prático de forma simples.
+
+O que é engenharia de prompt?
+Resposta: Intenção, contexto e controle de comportamento da IA.
+
+Diferença entre zero-shot e few-shot?
+Resposta: Exemplos práticos para cada abordagem.
+
+Quando usar fine-tuning?
+Resposta: Avaliar custo-benefício, necessidade de adaptação do modelo.
+
+Como evitar respostas ruins de uma IA?
+Resposta: Uso correto de contexto, exemplos claros, validações e definição de limites.
+
+🎓 Trilha DIO Recomendada
+
+Trilha: Fundamentos de Inteligência Artificial + Engenharia de Prompt
+
+Por que essa trilha: Construção de base sólida em IA e prática com LLMs, alinhada à independência tecnológica e à criação de projetos próprios.
+
+Próximos passos:
+
+Acesse dio.me
+
+Busque por “Fundamentos de Inteligência Artificial + Engenharia de Prompt”
+
+Inscreva-se gratuitamente
+
+Siga o roadmap de 90 dias junto com este plano
+
+✨ Observação: O mais importante é a constância. Comece pela Semana 1 e siga no seu ritmo.
