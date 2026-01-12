@@ -168,9 +168,9 @@ Documentação compreensível para terceiros
 
 Dica: Foque na arquitetura do prompt e no raciocínio por trás das decisões, mais do que no código.
 
-📂 Sobre o projeto iAVocacional
+📂 Sobre o projeto já possuo um em desenvolvimento
 
-O iAVocacional é um projeto desenvolvido por Lorde para orientação profissional com IA. Ele combina entrevistas estruturadas, análise de perfil e recomendações de carreira personalizadas. Funciona como um agente de IA modular, permitindo criar planos de estudo, mapas de skills e sugestões de carreiras com base no perfil do usuário.
+O iAVocacional é um projeto desenvolvido para orientação vocacional com IA em uma plataforma de estudos. Ele combina entrevistas estruturadas, análise de perfil e recomendações de carreira personalizadas. Funciona como um agente de IA modular, permitindo criar planos de estudo, mapas de skills e sugestões de carreiras com base no perfil do usuário.
 
 Características principais do iAVocacional:
 
@@ -182,24 +182,7 @@ Estrutura modular, permitindo expansão para múltiplos agentes de IA
 
 Integração com dashboards e relatórios de progresso
 
-Repositório no GitHub: iavocacional
-
-💬 Roteiro de Entrevistas (Júnior)
-
-O que é um LLM?
-Resposta: Explique probabilidade, contexto e uso prático de forma simples.
-
-O que é engenharia de prompt?
-Resposta: Intenção, contexto e controle de comportamento da IA.
-
-Diferença entre zero-shot e few-shot?
-Resposta: Exemplos práticos para cada abordagem.
-
-Quando usar fine-tuning?
-Resposta: Avaliar custo-benefício, necessidade de adaptação do modelo.
-
-Como evitar respostas ruins de uma IA?
-Resposta: Uso correto de contexto, exemplos claros, validações e definição de limites.
+Repositório no GitHub: https://github.com/machadods/iavocacional1
 
 🎓 Trilha DIO Recomendada
 
